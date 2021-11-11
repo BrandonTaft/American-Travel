@@ -36,6 +36,11 @@
 <h2 align= 'center'>Website</h2>
 <p align='center'>
 <a align='center' href="https://evening-bastion-01688.herokuapp.com" >Link to Website</a>
+ <br />
+ Guest Login: guest
+ <br />
+ password: password
+
  
 <div align='center'>
   <a align="center" href="https://mydevsite.surge.sh/">
